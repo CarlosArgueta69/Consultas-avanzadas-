@@ -4,7 +4,7 @@
 
 Este proyecto consiste en el diseño, implementación y manipulación de una base de datos con consultas avanzadas
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 * **Motor de Base de Datos:** / PostgreSQL / 
 * **Lenguaje:** SQL
 
